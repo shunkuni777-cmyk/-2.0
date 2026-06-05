@@ -10,7 +10,7 @@ from box_sdk_gen import BoxClient, BoxDeveloperTokenAuth
 # ★★★【設定】ここに情報を貼り付けてください ★★★
 BOX_CLIENT_ID = "qyolw1hpmuzh8reuoatj5a7lu9b2el1d"
 BOX_CLIENT_SECRET = "dINvj7FIEdo7uaDsfJMf8xA6wB5BxpNH"
-BOX_DEVELOPER_TOKEN = "FqBmr2Z3Yrr48gFCtAfwPpJzHpK1so1g"
+BOX_DEVELOPER_TOKEN = "iOdOXxtbunzhXOxsUzRz0MN3xBnwemJv"
 
 BOX_FILE_ID = "2263601536663"
 
